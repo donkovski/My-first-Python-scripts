@@ -1,1 +1,1 @@
-# My-first-Pyton-scripts
+# That's my first Python scripts
